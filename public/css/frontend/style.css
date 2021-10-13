@@ -1,0 +1,84 @@
+.block {
+    /*background-color:#9de0c4;*/
+    background: linear-gradient(#bcccc4, #9de0c4) no-repeat center fixed;
+}
+
+.banner-sec {
+    background-size: cover;
+    min-height: 500px;
+    border-radius: 0 10px 10px 0;
+    padding: 0;
+}
+
+.container {
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 5px 2px 0px rgba(0, 0, 0, 0.1);
+}
+
+.container-margin-top {
+    margin-top: 100px;
+}
+
+.carousel-inner {
+    border-radius: 0 10px 10px 0;
+}
+
+.carousel-caption {
+    text-align: left;
+    left: 5%;
+}
+
+.login-sec {
+    padding: 30px 30px 50px;
+    position: relative;
+}
+
+.banner-text {
+    width: 70%;
+    position: absolute;
+    bottom: 40px;
+    padding-left: 20px;
+}
+
+.banner-text h2 {
+    color: #fff;
+    font-weight: 600;
+}
+
+.banner-text h2:after {
+    content: " ";
+    width: 100px;
+    height: 5px;
+    background: #FFF;
+    display: block;
+    margin-top: 20px;
+    border-radius: 3px;
+}
+
+.banner-text p {
+    color: #fff;
+}
+
+.form-control {
+    border-radius: 1.25rem !important;
+    text-align: center !important;
+}
+
+.form-control::placeholder {
+    text-align: center !important;
+}
+
+.btn-outline-custom {
+    color: #fff !important;
+    background-color: #0b2e13 !important;
+    margin-top: 20px;
+}
+
+.welcome-message h3 {
+    font-weight: 700;
+    margin-top: 40px;
+    margin-bottom: -50px;
+    color: #0b2e13 !important;
+    line-height: 40px;
+}

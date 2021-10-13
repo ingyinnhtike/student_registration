@@ -1,0 +1,50 @@
+.bg-custom, .btn-blue {
+    background-color: #245785 !important;
+    color: #fff !important
+}
+
+.my-section {
+    padding: 5px !important
+}
+
+.card-header-custom {
+    background: #245785 !important;
+    box-shadow: 0 5px 20px 0 rgba(0, 0, 0, .2), 0 13px 24px -11px #245785
+}
+
+.detail-page h5, h3, h4 {
+    font-weight: 500
+}
+
+.detail-page h5 span {
+    margin: 0 3px 0 3px
+}
+
+.buttons {
+    margin-bottom: 50px !important
+}
+
+.payment-table tbody tr td, .payment-table tfoot tr td {
+    width: 200px !important;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.payment-table tfoot tr td {
+    margin-top: 60px
+}
+
+.fee-info {
+    margin-right: 60px;
+}
+.custom-nav{
+    font-weight: 800;
+}
+/***** Printing Screen *****/
+.print-card {border: 0.3px solid #000 !important;width:20%;padding:5px!important;}
+.print-header{text-decoration: none!important; margin-bottom: 300px!important;color:#000 !important;font-size:20px!important;font-weight:600!important;}
+.print-body{
+    background-color: #fff !important;
+}
+
+
